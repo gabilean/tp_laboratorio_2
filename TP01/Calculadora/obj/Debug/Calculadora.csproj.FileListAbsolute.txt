@@ -1,0 +1,21 @@
+c:\users\gabriel\documents\visual studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Gabriel\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+H:\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+H:\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+H:\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+K:\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+K:\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+K:\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+K:\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+K:\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+K:\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+K:\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+K:\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+K:\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
